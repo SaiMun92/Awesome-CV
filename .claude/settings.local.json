@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker build *)",
+      "WebSearch",
+      "Bash(docker search *)",
+      "Bash(curl -sL \"https://api.github.com/repos/tectonic-typesetting/tectonic/releases/latest\")",
+      "Bash(docker run *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}

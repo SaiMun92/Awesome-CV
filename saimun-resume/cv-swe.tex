@@ -1,0 +1,57 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% Variant: Software Engineer (Backend/Distributed Systems)
+% Target: Google L5
+%
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{awesome-cv}
+
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+\colorlet{awesome}{awesome-skyblue}
+
+\setbool{acvSectionColorHighlight}{true}
+
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%-------------------------------------------------------------------------------
+\name{Sai Mun}{Lee}
+\position{Senior Software Engineer, Machine Learning}
+
+\mobile{(+65) 9336 4288}
+\email{saimun92@icloud.com}
+\homepage{saimunlee.com}
+\linkedin{lee-sai-mun-8a12726}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+\makecvheader
+
+\makecvfooter
+  {\today}
+  {Sai Mun Lee~~~·~~~Resume}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%-------------------------------------------------------------------------------
+\input{cv/swe/summary.tex}
+\input{cv/swe/skills.tex}
+\input{cv/swe/experience.tex}
+\input{cv/shared/certificates.tex}
+\input{cv/shared/education.tex}
+
+
+%-------------------------------------------------------------------------------
+\end{document}

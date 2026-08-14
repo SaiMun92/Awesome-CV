@@ -1,0 +1,415 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - button "Main menu" [ref=e5] [cursor=pointer]:
+          - img [ref=e6]
+        - link "Careers" [ref=e10] [cursor=pointer]:
+          - /url: /about/careers/applications/
+          - generic [ref=e12]: Careers
+      - generic [ref=e13]:
+        - link "Skip navigation links" [ref=e14]:
+          - generic: Skip navigation links
+        - generic [ref=e17]:
+          - navigation "Candidate Portal Left Navigation" [ref=e21]:
+            - menubar [ref=e23]:
+              - generic [ref=e24]:
+                - menuitem "Home navigation link" [ref=e25] [cursor=pointer]:
+                  - menuitem [ref=e27]:
+                    - generic [ref=e28]:
+                      - generic [ref=e29]:
+                        - generic [ref=e34]: home
+                        - generic [ref=e36]: Home
+                      - generic [ref=e38]: Home
+                - menuitem "Jobs navigation item" [ref=e39] [cursor=pointer]:
+                  - menuitem [ref=e41]:
+                    - generic [ref=e42]:
+                      - generic [ref=e43]:
+                        - generic [ref=e48]: work_outline
+                        - generic [ref=e50]: Jobs
+                      - generic [ref=e52]: Jobs
+                - menuitem "Students navigation item" [ref=e53] [cursor=pointer]:
+                  - menuitem [ref=e55]:
+                    - generic [ref=e56]:
+                      - generic [ref=e57]:
+                        - generic [ref=e62]: noogler_hat
+                        - generic [ref=e64]: Students
+                      - generic [ref=e66]: Students
+                - menuitem "How we work navigation item" [ref=e67] [cursor=pointer]:
+                  - menuitem [ref=e69]:
+                    - generic [ref=e70]:
+                      - generic [ref=e71]:
+                        - generic [ref=e76]: google
+                        - generic [ref=e78]: How we work
+                      - generic [ref=e80]: How we work
+                - menuitem "How we hire navigation item" [ref=e81] [cursor=pointer]:
+                  - menuitem [ref=e83]:
+                    - generic [ref=e84]:
+                      - generic [ref=e85]:
+                        - generic [ref=e90]: handyman
+                        - generic [ref=e92]: How we hire
+                      - generic [ref=e94]: How we hire
+                - menuitem "Your career navigation item" [ref=e95] [cursor=pointer]:
+                  - menuitem [ref=e97]:
+                    - generic [ref=e98]:
+                      - generic [ref=e99]:
+                        - generic [ref=e104]: person_outline
+                        - generic [ref=e106]: Your career
+                      - generic [ref=e108]: Your career
+          - generic [ref=e114]:
+            - generic [ref=e115]:
+              - generic [ref=e116] [cursor=pointer]:
+                - generic [ref=e117]: help_outline
+                - link "Help link" [ref=e118]:
+                  - /url: https://support.google.com/googlecareers
+              - tooltip [ref=e119]: Help link
+            - generic [ref=e120]:
+              - button "Send feedback" [ref=e121] [cursor=pointer]:
+                - generic [ref=e122]: feedback
+              - tooltip [ref=e123]: Send feedback
+      - generic [ref=e125]:
+        - button "Google apps" [ref=e129] [cursor=pointer]:
+          - img [ref=e130]
+        - link "Sign in" [ref=e133] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Fwww.google.com%2Fabout%2Fcareers%2Fapplications%2Fjobs%2Fresults%2F143474123459175110-senior-software-engineer-machine-learning-acceleration-platform&followup=https%3A%2F%2Fwww.google.com%2Fabout%2Fcareers%2Fapplications%2Fjobs%2Fresults%2F143474123459175110-senior-software-engineer-machine-learning-acceleration-platform&ec=GAZA6QE
+  - generic [ref=e141]:
+    - heading "job details" [level=1]
+    - generic [ref=e143]:
+      - generic [ref=e144]:
+        - generic [ref=e146]:
+          - generic [ref=e147] [cursor=pointer]:
+            - generic [ref=e148]: arrow_back
+            - link "Back to jobs search" [ref=e149]:
+              - /url: jobs/results
+          - generic [ref=e150]: Back to jobs search
+        - generic [ref=e151]:
+          - heading "Jobs search results" [level=2]
+          - generic [ref=e153]:
+            - list [ref=e154]:
+              - listitem [ref=e155]:
+                - link "Field Sales Representative, Financial Services, Google Cloud Washington D.C., DC, USA; Atlanta, GA, USA ; +3 more" [ref=e160] [cursor=pointer]:
+                  - /url: jobs/results/126500855087014598-field-sales-representative-financial-services-google-cloud
+                  - heading "Field Sales Representative, Financial Services, Google Cloud" [level=3] [ref=e161]
+                  - paragraph [ref=e162]:
+                    - generic [ref=e163]:
+                      - text: Washington D.C., DC, USA
+                      - generic [ref=e164]: ; Atlanta, GA, USA
+                      - text: ; +3 more
+              - listitem [ref=e165]:
+                - link "Staff Software Engineer, Cloud Migration Bengaluru, Karnataka, India" [ref=e170] [cursor=pointer]:
+                  - /url: jobs/results/127345747094840006-staff-software-engineer-cloud-migration
+                  - heading "Staff Software Engineer, Cloud Migration" [level=3] [ref=e171]
+                  - paragraph [ref=e172]:
+                    - generic [ref=e173]: Bengaluru, Karnataka, India
+              - listitem [ref=e174]:
+                - link "Technical Solutions Consultant, Android Connectivity and Communication Platforms Kirkland, WA, USA; San Jose, CA, USA" [ref=e179] [cursor=pointer]:
+                  - /url: jobs/results/111994637404512966-technical-solutions-consultant-android-connectivity-and-communication-platforms
+                  - heading "Technical Solutions Consultant, Android Connectivity and Communication Platforms" [level=3] [ref=e180]
+                  - paragraph [ref=e181]:
+                    - generic [ref=e182]:
+                      - text: Kirkland, WA, USA
+                      - generic [ref=e183]: ; San Jose, CA, USA
+              - listitem [ref=e184]:
+                - link "Research Scientist, Gemini Data, DeepMind Paris, France" [ref=e189] [cursor=pointer]:
+                  - /url: jobs/results/114521455785321158-research-scientist-gemini-data-deepmind
+                  - heading "Research Scientist, Gemini Data, DeepMind" [level=3] [ref=e190]
+                  - paragraph [ref=e191]:
+                    - generic [ref=e192]: Paris, France
+              - listitem [ref=e193]:
+                - link "Forward Deployed Engineer IV, GenAI, Google Cloud San Francisco, CA, USA; Atlanta, GA, USA ; +23 more" [ref=e198] [cursor=pointer]:
+                  - /url: jobs/results/143122286080074438-forward-deployed-engineer-iv-genai-google-cloud
+                  - heading "Forward Deployed Engineer IV, GenAI, Google Cloud" [level=3] [ref=e199]
+                  - paragraph [ref=e200]:
+                    - generic [ref=e201]:
+                      - text: San Francisco, CA, USA
+                      - generic [ref=e202]: ; Atlanta, GA, USA
+                      - text: ; +23 more
+              - listitem [ref=e203]:
+                - link "Senior Security Engineer, Network Security Engineering New York, NY, USA; Kirkland, WA, USA ; +2 more" [ref=e208] [cursor=pointer]:
+                  - /url: jobs/results/84297667844154054-senior-security-engineer-network-security-engineering
+                  - heading "Senior Security Engineer, Network Security Engineering" [level=3] [ref=e209]
+                  - paragraph [ref=e210]:
+                    - generic [ref=e211]:
+                      - text: New York, NY, USA
+                      - generic [ref=e212]: ; Kirkland, WA, USA
+                      - text: ; +2 more
+              - listitem [ref=e213]:
+                - link "Product Support Manager, gUP Platforms and Devices Social and Community Atlanta, GA, USA; Boulder, CO, USA" [ref=e218] [cursor=pointer]:
+                  - /url: jobs/results/86367031405748934-product-support-manager-gup-platforms-and-devices-social-and-community
+                  - heading "Product Support Manager, gUP Platforms and Devices Social and Community" [level=3] [ref=e219]
+                  - paragraph [ref=e220]:
+                    - generic [ref=e221]:
+                      - text: Atlanta, GA, USA
+                      - generic [ref=e222]: ; Boulder, CO, USA
+              - listitem [ref=e223]:
+                - link "Staff Software Engineer, AI/ML, YouTube Ads Mountain View, CA, USA" [ref=e228] [cursor=pointer]:
+                  - /url: jobs/results/105956763789861574-staff-software-engineer-aiml-youtube-ads
+                  - heading "Staff Software Engineer, AI/ML, YouTube Ads" [level=3] [ref=e229]
+                  - paragraph [ref=e230]:
+                    - generic [ref=e231]: Mountain View, CA, USA
+              - listitem [ref=e232]:
+                - link "Product Manager, Google Partner Innovation Singapore" [ref=e237] [cursor=pointer]:
+                  - /url: jobs/results/111596751634211526-product-manager-google-partner-innovation
+                  - heading "Product Manager, Google Partner Innovation" [level=3] [ref=e238]
+                  - paragraph [ref=e239]:
+                    - generic [ref=e240]: Singapore
+              - listitem [ref=e241]:
+                - link "Post Silicon Advanced Packaging Engineer Taipei, Taiwan; Zhubei, Zhubei City, Hsinchu County, Taiwan" [ref=e246] [cursor=pointer]:
+                  - /url: jobs/results/134122747000169158-post-silicon-advanced-packaging-engineer
+                  - heading "Post Silicon Advanced Packaging Engineer" [level=3] [ref=e247]
+                  - paragraph [ref=e248]:
+                    - generic [ref=e249]:
+                      - text: Taipei, Taiwan
+                      - generic [ref=e250]: ; Zhubei, Zhubei City, Hsinchu County, Taiwan
+              - listitem [ref=e251]:
+                - link "Senior Network Automation Engineer, Network Infrastructure and Capacity Atlanta, GA, USA; Thornton, CO, USA" [ref=e256] [cursor=pointer]:
+                  - /url: jobs/results/84781398199542470-senior-network-automation-engineer-network-infrastructure-and-capacity
+                  - heading "Senior Network Automation Engineer, Network Infrastructure and Capacity" [level=3] [ref=e257]
+                  - paragraph [ref=e258]:
+                    - generic [ref=e259]:
+                      - text: Atlanta, GA, USA
+                      - generic [ref=e260]: ; Thornton, CO, USA
+              - listitem [ref=e261]:
+                - link "Staff Software Engineer, ML Frameworks Mountain View, CA, USA" [ref=e266] [cursor=pointer]:
+                  - /url: jobs/results/85571864381792966-staff-software-engineer-ml-frameworks
+                  - heading "Staff Software Engineer, ML Frameworks" [level=3] [ref=e267]
+                  - paragraph [ref=e268]:
+                    - generic [ref=e269]: Mountain View, CA, USA
+              - listitem [ref=e270]:
+                - link "Senior Software Engineer, Enterprise AI San Jose, CA, USA" [ref=e275] [cursor=pointer]:
+                  - /url: jobs/results/101088255151088326-senior-software-engineer-enterprise-ai
+                  - heading "Senior Software Engineer, Enterprise AI" [level=3] [ref=e276]
+                  - paragraph [ref=e277]:
+                    - generic [ref=e278]: San Jose, CA, USA
+              - listitem [ref=e279]:
+                - link "Network Fabric Test Engineer Bengaluru, Karnataka, India" [ref=e284] [cursor=pointer]:
+                  - /url: jobs/results/129368132304151238-network-fabric-test-engineer
+                  - heading "Network Fabric Test Engineer" [level=3] [ref=e285]
+                  - paragraph [ref=e286]:
+                    - generic [ref=e287]: Bengaluru, Karnataka, India
+              - listitem [ref=e288]:
+                - link "Senior Software Engineer, Site Reliability Engineering, Cloud Storage Dublin, Ireland" [ref=e293] [cursor=pointer]:
+                  - /url: jobs/results/113159956521198278-senior-software-engineer-site-reliability-engineering-cloud-storage
+                  - heading "Senior Software Engineer, Site Reliability Engineering, Cloud Storage" [level=3] [ref=e294]
+                  - paragraph [ref=e295]:
+                    - generic [ref=e296]: Dublin, Ireland
+              - listitem [ref=e297]:
+                - link "Business Development Manager, Media, Gaming and Entertainment, DeepMind San Francisco, CA, USA; New York, NY, USA" [ref=e302] [cursor=pointer]:
+                  - /url: jobs/results/114231250213839558-business-development-manager-media-gaming-and-entertainment-deepmind
+                  - heading "Business Development Manager, Media, Gaming and Entertainment, DeepMind" [level=3] [ref=e303]
+                  - paragraph [ref=e304]:
+                    - generic [ref=e305]:
+                      - text: San Francisco, CA, USA
+                      - generic [ref=e306]: ; New York, NY, USA
+              - listitem [ref=e307]:
+                - link "Forward Deployed Engineer II, GCC (French, German) Dublin, Ireland" [ref=e312] [cursor=pointer]:
+                  - /url: jobs/results/106128536711897798-forward-deployed-engineer-ii-gcc-french-german
+                  - heading "Forward Deployed Engineer II, GCC (French, German)" [level=3] [ref=e313]
+                  - paragraph [ref=e314]:
+                    - generic [ref=e315]: Dublin, Ireland
+              - listitem [ref=e316]:
+                - link "Principal Threat Intelligence Analyst, Google Threat Intelligence Group Sydney NSW, Australia; Melbourne VIC, Australia ; +7 more | Remote eligible" [ref=e321] [cursor=pointer]:
+                  - /url: jobs/results/109190758199632582-principal-threat-intelligence-analyst-google-threat-intelligence-group
+                  - heading "Principal Threat Intelligence Analyst, Google Threat Intelligence Group" [level=3] [ref=e322]
+                  - paragraph [ref=e323]:
+                    - generic [ref=e324]:
+                      - text: Sydney NSW, Australia
+                      - generic [ref=e325]: ; Melbourne VIC, Australia
+                      - text: ; +7 more
+                    - text: "| Remote eligible"
+              - listitem [ref=e326]:
+                - link "Data Center Manager, Server Operations Eemshaven, Netherlands" [ref=e331] [cursor=pointer]:
+                  - /url: jobs/results/87033417056559814-data-center-manager-server-operations
+                  - heading "Data Center Manager, Server Operations" [level=3] [ref=e332]
+                  - paragraph [ref=e333]:
+                    - generic [ref=e334]: Eemshaven, Netherlands
+              - listitem [ref=e335]:
+                - link "Staff Software Developer, Google Cloud Enterprise Chat Waterloo, ON, Canada" [ref=e340] [cursor=pointer]:
+                  - /url: jobs/results/134930548744168134-staff-software-developer-google-cloud-enterprise-chat
+                  - heading "Staff Software Developer, Google Cloud Enterprise Chat" [level=3] [ref=e341]
+                  - paragraph [ref=e342]:
+                    - generic [ref=e343]: Waterloo, ON, Canada
+            - generic [ref=e348]:
+              - status [ref=e349]:
+                - generic [ref=e350]: Showing 1 to 20 of 3387 rows
+                - generic [ref=e351]: 1‑20 of 3387
+              - generic [ref=e352] [cursor=pointer]:
+                - generic [ref=e353]: navigate_next
+                - link "Go to next page" [ref=e354]:
+                  - /url: https://www.google.com/about/careers/applications/jobs/results/143474123459175110-senior-software-engineer-machine-learning-acceleration-platform?page=2
+      - generic [ref=e355]:
+        - main [ref=e356]:
+          - generic [ref=e363]:
+            - generic [ref=e364]:
+              - heading "Senior Software Engineer, Machine Learning, Acceleration Platform" [level=2] [ref=e365]
+              - button "Share Senior Software Engineer, Machine Learning, Acceleration Platform" [ref=e370] [cursor=pointer]:
+                - generic [ref=e371]: share
+            - generic [ref=e372]:
+              - generic [ref=e373]:
+                - generic [ref=e374]: corporate_fare
+                - generic [ref=e375]: Google
+              - generic [ref=e376]:
+                - generic [ref=e377]: place
+                - generic [ref=e378]: Singapore
+              - img "Mid, Learn more about experience filters." [ref=e382]:
+                - generic [ref=e386]: bar_chart
+                - generic [ref=e387]: Mid
+            - generic [ref=e390]:
+              - generic [ref=e392]: Apply
+              - link "Apply" [ref=e393] [cursor=pointer]:
+                - /url: ./apply?jobId=CiUAL2FckZl6PrSZcYVZXE_p22ByW4TlKB21sOPYy5nuDWonfuBFEjsA1Ny_i1sQkMBfxwVHDrZ_lGCBcld6NGBSPhDGaJndlA_Bzfkq93k-fLfNktYu-k7QD05Q4SyLL-2y4g%3D%3D_V2&loc=SG&title=Senior+Software+Engineer
+            - generic [ref=e394]:
+              - generic [ref=e395]:
+                - img "Info" [ref=e396]:
+                  - generic [ref=e397]: info_outline
+                - generic [ref=e398]: X
+                - generic [ref=e399]: Google will be prioritizing applicants who have a current right to work in Singapore, and do not require Google's sponsorship of a visa.
+              - heading "Minimum qualifications:" [level=3] [ref=e400]
+              - list [ref=e401]:
+                - listitem [ref=e402]: Bachelor’s degree or equivalent practical experience.
+                - listitem [ref=e403]: 5 years of experience with software programming in Python or C++.
+                - listitem [ref=e404]: 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+                - listitem [ref=e405]: 3 years of experience in a core ML domain, including but not limited to generative AI, Natural Language Processing (NLP), computer vision, speech/audio, reinforcement learning, recommendation systems, or ML infrastructure.
+                - listitem [ref=e406]: 3 years of experience with ML infrastructure (e.g., model training, model inference, model deployment, model evaluation, optimization, data processing, debugging).
+              - heading "Preferred qualifications:" [level=3] [ref=e407]
+              - list [ref=e408]:
+                - listitem [ref=e409]: Master's degree or PhD in Computer Science, or related technical fields.
+                - listitem [ref=e410]: 5 years of experience with data structures and algorithms, with 2 years of experience in a technical leadership role, and ability to drive technical consensus and engineering excellence.
+                - listitem [ref=e411]: Expertise in distributed systems architecture and core programming with nuanced LLM knowledge, and deploying and scaling enterprise-grade LLM backends, advanced RAG systems, and autonomous agentic workflows.
+                - listitem [ref=e412]: Proficient in core ML concepts (attention, embeddings, encoders/decoders) and frameworks (PyTorch, JAX, TensorFlow) with experience optimizing ML models.
+                - listitem [ref=e413]: Knowledge in AI safety, enterprise security, advanced prompt engineering, and scalable model evaluation methodologies.
+            - generic [ref=e414]:
+              - heading "About the job" [level=3] [ref=e415]
+              - text: Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+              - text: With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+              - text: As a Senior Software Engineer in the Acceleration Platform team in Singapore, you will architect the next generation of AI-native agentic systems designed to eliminate systemic developer toil at a global scale. You will own the technical goal, moving beyond tool-building to define the very paradigms of how autonomous AI resolves complex engineering challenges. You will navigate high-ambiguity, zero-to-one initiatives, establishing the gold standard for AI engineering excellence and security-by-design while scaling the technical capabilities of the entire organization through high-leverage mentorship.The Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.
+            - generic [ref=e416]:
+              - heading "Responsibilities" [level=3] [ref=e417]
+              - list [ref=e418]:
+                - listitem [ref=e419]: Lead the design and architecture of highly scalable, fault-tolerant systems where multi-agent networks reason, plan, and execute complex workflows across vast, distributed codebases.
+                - listitem [ref=e420]: Define best practices for the team and broader organization. Blend traditional distributed systems architecture with advanced LLM orchestration, complex Retrieval Augmented Generation (RAG) pipelines, and optimization.
+                - listitem [ref=e421]: Establish the overarching technical strategy for AI quality and safety. Build automated evaluation frameworks that measure performance, enforce strict security standards, and reliably mitigate at scale.
+                - listitem [ref=e422]: Manage the most intricate non-deterministic edge cases. Build advanced telemetry and introspection tooling that allows the entire organization to understand, debug, and optimize self-sustaining behavior.
+                - listitem [ref=e423]: Drive technical alignment across local pods and global organizations. Mentor junior and mid-level engineers, translate extreme ambiguity into actionable technical roadmaps, and shape the future of AI-driven developer productivity.
+            - generic [ref=e425]:
+              - paragraph [ref=e426]:
+                - text: Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's
+                - link "Applicant and Candidate Privacy Policy" [ref=e427] [cursor=pointer]:
+                  - /url: ./privacy-policy
+                - text: .
+              - paragraph [ref=e428]:
+                - text: Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also
+                - link "Google's EEO Policy" [ref=e429] [cursor=pointer]:
+                  - /url: https://www.google.com/about/careers/applications/eeo/
+                - text: ","
+                - 'link "Know your rights: workplace discrimination is illegal" [ref=e430] [cursor=pointer]':
+                  - /url: https://careers.google.com/jobs/dist/legal/EEOC_KnowYourRights_10_20.pdf
+                - text: ","
+                - link "Belonging at Google" [ref=e431] [cursor=pointer]:
+                  - /url: https://about.google/belonging/
+                - text: ", and"
+                - link "How we hire" [ref=e432] [cursor=pointer]:
+                  - /url: https://careers.google.com/how-we-hire/
+                - text: .
+              - paragraph [ref=e433]:
+                - text: If you have a need that requires accommodation, please let us know by completing our
+                - link "Accommodations for Applicants form" [ref=e434] [cursor=pointer]:
+                  - /url: https://goo.gl/forms/aBt6Pu71i1kzpLHe2
+                - text: .
+              - paragraph [ref=e435]: Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.
+              - paragraph [ref=e436]: "To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes."
+              - paragraph [ref=e437]: Equity is granted exclusively and discretionarily by Alphabet Inc. on the basis of an agreement concluded between you and Alphabet Inc. Alphabet Inc. is your sole contractual partner with respect to equity grants. GSU grants are not guaranteed, are discretionary, are subject to approval by the Alphabet Inc. board of directors or its delegate, the terms of the relevant Alphabet Inc. stock plan, and your grant agreement. They have no impact on statutory payments. Current or past grants do not confer an acquired right.
+        - contentinfo [ref=e439]:
+          - generic [ref=e441]:
+            - generic [ref=e442]:
+              - heading "Follow Life at Google on" [level=2] [ref=e443]
+              - list [ref=e444]:
+                - listitem [ref=e445]:
+                  - link "View our Instagram feed (Opens in a new tab)" [ref=e446] [cursor=pointer]:
+                    - /url: https://www.instagram.com/lifeatgoogle/
+                - listitem [ref=e451]:
+                  - link "View our Twitter feed (Opens in a new tab)" [ref=e452] [cursor=pointer]:
+                    - /url: https://twitter.com/lifeatgoogle
+                - listitem [ref=e455]:
+                  - link "View our YouTube channel (Opens in a new tab)" [ref=e456] [cursor=pointer]:
+                    - /url: https://www.youtube.com/lifeatgoogle
+                - listitem [ref=e459]:
+                  - link "View LinkedIn (Opens in a new tab)" [ref=e460] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/google/jobs/
+                - listitem [ref=e463]:
+                  - link "View our Facebook (Opens in a new tab)" [ref=e464] [cursor=pointer]:
+                    - /url: https://www.facebook.com/lifeatgoogle/
+            - generic [ref=e469]:
+              - generic [ref=e470]:
+                - heading "More about us" [level=2] [ref=e471]
+                - generic [ref=e472]:
+                  - link "About us (opens in a new tab)" [ref=e473] [cursor=pointer]:
+                    - /url: https://about.google/
+                    - text: About us
+                    - generic [ref=e475]: open_in_new
+                  - link "Contact us (opens in a new tab)" [ref=e476] [cursor=pointer]:
+                    - /url: https://about.google/contact-google/
+                    - text: Contact us
+                    - generic [ref=e478]: open_in_new
+                  - link "Press (opens in a new tab)" [ref=e479] [cursor=pointer]:
+                    - /url: https://blog.google/press/
+                    - text: Press
+                    - generic [ref=e481]: open_in_new
+              - generic [ref=e482]:
+                - heading "Related Information" [level=2] [ref=e483]
+                - generic [ref=e484]:
+                  - link "Investor relations (opens in a new tab)" [ref=e485] [cursor=pointer]:
+                    - /url: https://abc.xyz/investor/
+                    - text: Investor relations
+                    - generic [ref=e487]: open_in_new
+                  - link "Blog (opens in a new tab)" [ref=e488] [cursor=pointer]:
+                    - /url: https://blog.google/
+                    - text: Blog
+                    - generic [ref=e490]: open_in_new
+              - generic [ref=e491]:
+                - heading "Equal Opportunity" [level=2] [ref=e492]
+                - paragraph [ref=e493]:
+                  - text: Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also
+                  - link "Google's EEO Policy" [ref=e494] [cursor=pointer]:
+                    - /url: https://www.google.com/about/careers/applications/eeo/
+                  - text: ","
+                  - 'link "Know your rights: workplace discrimination is illegal" [ref=e495] [cursor=pointer]':
+                    - /url: https://careers.google.com/jobs/dist/legal/EEOC_KnowYourRights_10_20.pdf
+                  - text: ","
+                  - link "Belonging at Google" [ref=e496] [cursor=pointer]:
+                    - /url: https://about.google/belonging/
+                  - text: ", and"
+                  - link "How we hire" [ref=e497] [cursor=pointer]:
+                    - /url: https://careers.google.com/how-we-hire/
+                  - text: .
+            - generic [ref=e498]:
+              - link "google.com (Opens in a new tab)" [ref=e500] [cursor=pointer]:
+                - /url: https://www.google.com/
+                - img "Google" [ref=e501]
+              - generic [ref=e502]:
+                - generic [ref=e503]:
+                  - link "Privacy (opens in a new tab)" [ref=e505] [cursor=pointer]:
+                    - /url: https://policies.google.com/privacy
+                    - text: Privacy
+                    - generic [ref=e507]: open_in_new
+                  - link "Applicant & Candidate Privacy (opens in a new tab)" [ref=e509] [cursor=pointer]:
+                    - /url: ./privacy-policy
+                    - text: Applicant & Candidate Privacy
+                    - generic [ref=e511]: open_in_new
+                  - link "Terms (opens in a new tab)" [ref=e513] [cursor=pointer]:
+                    - /url: https://policies.google.com/terms
+                    - text: Terms
+                    - generic [ref=e515]: open_in_new
+                - generic [ref=e516]:
+                  - link "Help (opens in a new tab)" [ref=e517] [cursor=pointer]:
+                    - /url: https://support.google.com/googlecareers/#topic=6095159
+                    - generic [ref=e519]: help
+                    - text: Help
+                    - generic [ref=e521]: open_in_new
+                  - combobox "Select language" [ref=e525] [cursor=pointer]:
+                    - generic: language
+                    - generic:
+                      - generic: English
+                    - generic:
+                      - img
+  - generic [ref=e527]: Info Google will be prioritizing applicants who have a current right to work in Singapore, and do not require Google's sponsorship of a visa.

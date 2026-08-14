@@ -1,0 +1,125 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - link "Careers" [ref=e6] [cursor=pointer]:
+      - /url: /
+    - list [ref=e10]:
+      - listitem [ref=e11]:
+        - link "Home" [ref=e12] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=e13]:
+        - link "Jobs" [ref=e14] [cursor=pointer]:
+          - /url: /jobs
+      - listitem [ref=e15]:
+        - link "Early Careers & Internships" [ref=e16] [cursor=pointer]:
+          - /url: /early-careers-internships
+  - generic [ref=e17]:
+    - heading "Job Details" [level=1]
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - heading "Senior AI Engineer" [level=1] [ref=e21]
+          - link [ref=e23] [cursor=pointer]:
+            - /url: /apply/J02160995
+            - button "Apply" [ref=e25]
+        - generic [ref=e26]:
+          - generic [ref=e27]:
+            - img "bag-f" [ref=e28]
+            - generic [ref=e31]: Engineering and Technology
+          - generic [ref=e33]:
+            - img "map-marker-f" [ref=e34]
+            - generic [ref=e36]: Singapore
+          - generic [ref=e38]:
+            - img "barchart-f" [ref=e39]
+            - generic [ref=e43]: Experienced (Individual Contributor)
+          - generic [ref=e45]:
+            - img "users-f" [ref=e46]
+            - generic [ref=e49]: Sea Corporate Lab
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - heading "About Team" [level=3] [ref=e52]
+          - generic [ref=e54]:
+            - paragraph [ref=e55]: We are building the next generation of AI Agentic capabilities for one of our core enterprise products, evolving it from a productivity tool into an intelligent assistant that can understand context, take actions, and get work done autonomously on behalf of our users.
+            - paragraph [ref=e56]: We are seeking experienced AI Engineers who are passionate about solving complex technical challenges, whether as a hands-on Individual Contributor or in a Team Lead capacity. As a senior member of the team, you will work as a close technical partner to our Product Manager, shaping the product direction from a technical feasibility standpoint while owning the architecture and delivery of our AI Agent products end to end.
+        - generic [ref=e57]:
+          - heading "Job Description" [level=3] [ref=e58]
+          - list [ref=e61]:
+            - listitem [ref=e62]: Lead the technical architecture and end-to-end development of AI Agentic products for a core enterprise platform, partnering closely with the Product Manager to shape product direction from a technical feasibility standpoint.
+            - listitem [ref=e63]: Architect and build scalable agent frameworks (multi-step reasoning, tool/function calling, memory, orchestration across multiple LLMs and services) that power our product's copilot and automation features.
+            - listitem [ref=e64]: Own the full lifecycle of AI features — technical design, model selection/fine-tuning, evaluation, production deployment, and monitoring — ensuring reliability, latency, and cost efficiency at scale.
+            - listitem [ref=e65]: Mentor junior AI engineers, set best practices for prompt engineering, RAG pipelines, and agent evaluation, and help build reusable AI infrastructure for the broader team.
+            - listitem [ref=e66]: Partner cross-functionally with product, design, backend/infra, and security teams to ensure AI features are robust, safe, and compliant with data governance requirements.
+            - listitem [ref=e67]: Stay on top of the latest advances in LLMs and agentic AI, and proactively identify opportunities to apply new techniques to our product roadmap.
+        - generic [ref=e68]:
+          - heading "Requirements" [level=3] [ref=e69]
+          - list [ref=e72]:
+            - listitem [ref=e73]: Bachelor's degree or above in Computer Science, Artificial Intelligence, or a related field; a Master's degree is a plus.
+            - listitem [ref=e74]: Minimum 5 years of software engineering experience, including at least 2 years of hands-on experience building AI/ML or LLM-powered systems in production.
+            - listitem [ref=e75]: "Deep expertise in LLM application development: prompt engineering, RAG, agent frameworks (e.g. LangChain, LlamaIndex, AutoGen), tool/function calling, and multi-agent orchestration."
+            - listitem [ref=e76]: Strong foundation in machine learning/deep learning, with practical experience in model fine-tuning, evaluation, and optimization (latency, cost, accuracy trade-offs).
+            - listitem [ref=e77]: Proven track record of shipping AI-powered products end-to-end, from prototype to production, ideally in a B2B/enterprise or SaaS setting.
+            - listitem [ref=e78]: Excellent system design skills, able to architect scalable, secure, and maintainable AI infrastructure.
+            - listitem [ref=e79]: Fast learner with a strong self-driven mindset and a bias for action; comfortable navigating ambiguity and driving technical decisions independently.
+            - listitem [ref=e80]: Strong communication and collaboration skills, able to partner closely with product managers and designers to translate business needs into technical solutions.
+            - listitem [ref=e81]: Experience with enterprise SaaS, productivity platforms, or AI copilot products is a strong plus.
+      - generic:
+        - generic:
+          - heading [level=3]
+  - generic [ref=e82]:
+    - generic [ref=e83]:
+      - generic [ref=e85]:
+        - 'link "1 Fusionopolis Place, #17-10, Galaxis, Singapore 138522 Tel:+65 6270 8100" [ref=e86] [cursor=pointer]':
+          - /url: /
+          - generic [ref=e87]: "1 Fusionopolis Place, #17-10, Galaxis, Singapore 138522"
+          - generic [ref=e88]: Tel:+65 6270 8100
+        - link [ref=e89] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/1546378
+      - list [ref=e90]:
+        - listitem [ref=e91]:
+          - generic [ref=e92]: Sea Career
+          - list [ref=e93]:
+            - listitem [ref=e94]:
+              - link "Home" [ref=e95] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e97]:
+              - link "Jobs" [ref=e98] [cursor=pointer]:
+                - /url: /jobs
+            - listitem [ref=e100]:
+              - link "Early Careers & Internships" [ref=e101] [cursor=pointer]:
+                - /url: /early-careers-internships
+        - listitem [ref=e103]:
+          - generic [ref=e104]: About Sea
+          - list [ref=e105]:
+            - listitem [ref=e106]:
+              - link "Our Leadership" [ref=e107] [cursor=pointer]:
+                - /url: https://www.sea.com/aboutus/leadership
+            - listitem [ref=e109]:
+              - link "Product & Services" [ref=e110] [cursor=pointer]:
+                - /url: https://www.sea.com/products
+            - listitem [ref=e112]:
+              - link "Investor Relations" [ref=e113] [cursor=pointer]:
+                - /url: https://www.sea.com/investor
+            - listitem [ref=e115]:
+              - link "News" [ref=e116] [cursor=pointer]:
+                - /url: https://www.sea.com/news
+            - listitem [ref=e118]:
+              - link "Contact Us" [ref=e119] [cursor=pointer]:
+                - /url: https://www.sea.com/contactus
+        - listitem [ref=e121]:
+          - generic [ref=e122]: Related Careers
+          - list [ref=e123]:
+            - listitem [ref=e124]:
+              - link "Garena career" [ref=e125] [cursor=pointer]:
+                - /url: https://careers.garena.com
+            - listitem [ref=e127]:
+              - link "Shopee career" [ref=e128] [cursor=pointer]:
+                - /url: https://careers.shopee.sg
+            - listitem [ref=e130]:
+              - link "Monee career" [ref=e131] [cursor=pointer]:
+                - /url: https://careers.monee.com/careers
+    - generic [ref=e133]:
+      - text: Copyright © Sea Limited. Trademarks belong to their respective owners. All rights reserved.|
+      - link "Terms of Service" [ref=e134] [cursor=pointer]:
+        - /url: https://www.sea.com/terms
+      - text: "|"
+      - link "Privacy Policy" [ref=e135] [cursor=pointer]:
+        - /url: https://www.sea.com/privacy

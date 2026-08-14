@@ -1,0 +1,307 @@
+- generic [ref=e8]:
+  - link [ref=e9] [cursor=pointer]:
+    - /url: "#mdc-main-content"
+    - generic [ref=e10]: Skip to main content
+  - navigation [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e20]:
+        - button [ref=e22] [cursor=pointer]
+        - link [ref=e26] [cursor=pointer]:
+          - /url: /
+      - button [ref=e31] [cursor=pointer]
+  - generic [ref=e37]:
+    - generic [ref=e39]:
+      - generic [ref=e41]:
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - generic [ref=e45]:
+              - navigation [ref=e46]:
+                - list [ref=e47]:
+                  - listitem [ref=e48]:
+                    - button [ref=e50] [cursor=pointer]:
+                      - generic [ref=e51]: Jobs
+                  - listitem [ref=e55]:
+                    - generic [ref=e56]: Software Engineer, Product (Singapore)
+              - generic [ref=e59]:
+                - heading [level=1] [ref=e61]: Software Engineer, Product (Singapore)
+                - generic [ref=e62]:
+                  - generic [ref=e63]: Singapore
+                  - generic [ref=e64]:
+                    - generic [ref=e65]: Engineering
+                    - button [ref=e68] [cursor=pointer]:
+                      - generic [ref=e69]: + 1 more
+            - button [ref=e72] [cursor=pointer]
+          - button [ref=e78] [cursor=pointer]:
+            - generic [ref=e79]: Apply now
+          - generic [ref=e82]: Meta is seeking talented engineers to join our teams in building cutting-edge products, with the mission of connecting billions of people around the world. As a member of our team, you will have the opportunity to work on complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we're looking for passionate individuals who can help us advance the way people connect globally. If you're interested in joining a world-class team and working on exciting projects that have a significant impact, we encourage you to apply.
+          - separator [ref=e84]
+          - generic [ref=e85]:
+            - heading [level=2] [ref=e86]: Software Engineer, Product (Singapore) Responsibilities
+            - list [ref=e87]:
+              - generic [ref=e88]:
+                - listitem [ref=e89]: Collaborate with cross-functional teams (product, design, operations, infrastructure) to build innovative application experiences
+                - listitem [ref=e90]: Implement custom user interfaces using latest programming techniques and technologies
+                - listitem [ref=e91]: Analyze and optimize code for quality, efficiency, and performance, and provide feedback to peers during code reviews
+                - listitem [ref=e92]: Set direction and goals for teams, lead major initiatives, provide technical guidance and mentorship to peers, and help onboard new team members
+                - listitem [ref=e93]: Architect efficient and scalable systems that drive complex applications
+                - listitem [ref=e94]: Identify and resolve performance and scalability issues, and drive large efforts to reduce technical debt
+                - listitem [ref=e95]: Work on a variety of coding languages and technologies
+                - listitem [ref=e96]: Establish ownership of components, features, or systems with expert end-to-end understanding
+          - generic [ref=e97]:
+            - heading [level=2] [ref=e98]: Minimum Qualifications
+            - list [ref=e99]:
+              - generic [ref=e100]:
+                - listitem [ref=e101]: 8+ years of programming experience in a relevant programming language
+                - listitem [ref=e102]: 6+ years relevant experience building large-scale applications or similar experience
+                - listitem [ref=e103]: Experience leading major initiatives successfully. Experience leading projects and teams accordingly
+                - listitem [ref=e104]: Experience building and shipping high quality work and achieving high reliability
+                - listitem [ref=e105]: Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
+                - listitem [ref=e106]: Experience with scripting languages such as Python, Javascript or Hack
+                - listitem [ref=e107]: Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes
+                - listitem [ref=e108]: Experienced in utilizing data and analysis to explain technical problems and providing detailed feedback and solutions
+          - generic [ref=e109]:
+            - heading [level=2] [ref=e110]: Preferred Qualifications
+            - list [ref=e111]:
+              - generic [ref=e112]:
+                - listitem [ref=e113]: Experience in programming languages such as C, C++, Java, Swift, or Kotlin
+                - listitem [ref=e114]: Demonstrated ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)
+                - listitem [ref=e115]: Experience adhering to and implementing responsible, ethical AI practices (e.g., risk assessment, bias mitigation, quality and accuracy reviews)
+                - listitem [ref=e116]: Demonstrated ongoing AI skill development (e.g., prompt/context engineering, agent orchestration) and staying current with emerging AI technologies
+          - separator [ref=e117]
+          - generic [ref=e118]:
+            - heading [level=2] [ref=e119]: About Meta
+            - generic [ref=e120]: Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+          - generic [ref=e124]:
+            - heading [level=2] [ref=e125]: Equal Employment Opportunity
+            - generic [ref=e129]:
+              - text: Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+              - link [ref=e130] [cursor=pointer]:
+                - /url: https://www.metacareers.com/profile/footer_link/redirect/?page=equal_opportunity_policy
+                - text: here
+              - text: .
+            - generic [ref=e133]:
+              - text: Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, fill out the
+              - link [ref=e134] [cursor=pointer]:
+                - /url: https://www.metacareers.com/accommodations_request
+                - text: Accommodations request form
+              - text: .
+        - separator [ref=e135]
+        - generic [ref=e137]:
+          - generic [ref=e138]: Apply for this job
+          - generic [ref=e140]: Take the first step toward a rewarding career at Meta.
+          - button [ref=e145] [cursor=pointer]:
+            - generic [ref=e146]: Apply now
+        - generic [ref=e168]:
+          - paragraph [ref=e171]: APPLY NOW
+          - heading [level=2] [ref=e173]:
+            - paragraph [ref=e174]: Find your role
+          - paragraph [ref=e175]: Explore jobs that match your skills and experience. Search by technology, team or location to find an opening that’s right for you.
+          - link [ref=e176] [cursor=pointer]:
+            - /url: https://www.metacareers.com/jobs
+            - text: View jobs
+      - generic [ref=e180]:
+        - button [ref=e193] [cursor=pointer]
+        - generic [ref=e198]:
+          - generic [ref=e203]:
+            - text: Recruiters can view your conversations with AI. Using AI is optional and does not impact the outcome of your application process.
+            - button [ref=e204] [cursor=pointer]: Learn more
+            - text: about AI usage and settings.
+          - generic [ref=e208]:
+            - button [ref=e210] [cursor=pointer]
+            - generic [ref=e216]:
+              - button [ref=e217] [cursor=pointer]:
+                - generic [ref=e218]: Sign up
+              - generic [ref=e222]: to ask follow-up questions
+    - contentinfo [ref=e223]:
+      - generic [ref=e224]:
+        - separator [ref=e225]
+        - generic [ref=e227]:
+          - generic [ref=e229]:
+            - list [ref=e235]
+            - generic [ref=e237]:
+              - generic [ref=e238]:
+                - heading [level=2] [ref=e241]:
+                  - link [ref=e243] [cursor=pointer]:
+                    - /url: /jobsearch/
+                    - text: Job Search
+                - generic [ref=e245]:
+                  - heading [level=2] [ref=e246]:
+                    - generic [ref=e247]: Technology Teams
+                  - list [ref=e248]:
+                    - listitem [ref=e249]:
+                      - link [ref=e251] [cursor=pointer]:
+                        - /url: /teams/technology/ai/
+                        - text: Artificial Intelligence
+                    - listitem [ref=e252]:
+                      - link [ref=e254] [cursor=pointer]:
+                        - /url: /teams/technology/creative/
+                        - text: Creative
+                    - listitem [ref=e255]:
+                      - link [ref=e257] [cursor=pointer]:
+                        - /url: /teams/technology/infrastructure/
+                        - text: Infrastructure
+                    - listitem [ref=e258]:
+                      - link [ref=e260] [cursor=pointer]:
+                        - /url: /teams/technology/metaverse-and-wearables/
+                        - text: Metaverse and Wearables
+                    - listitem [ref=e261]:
+                      - link [ref=e263] [cursor=pointer]:
+                        - /url: /teams/technology/product-and-program-management/
+                        - text: Product and Program Management
+                    - listitem [ref=e264]:
+                      - link [ref=e266] [cursor=pointer]:
+                        - /url: /teams/technology/research-and-data/
+                        - text: Research and Data
+                    - listitem [ref=e267]:
+                      - link [ref=e269] [cursor=pointer]:
+                        - /url: /teams/technology/security/
+                        - text: Security
+                    - listitem [ref=e270]:
+                      - link [ref=e272] [cursor=pointer]:
+                        - /url: /teams/technology/software-engineering/
+                        - text: Software Engineering
+              - generic [ref=e273]:
+                - generic [ref=e275]:
+                  - heading [level=2] [ref=e276]:
+                    - generic [ref=e277]: Business Teams
+                  - list [ref=e278]:
+                    - listitem [ref=e279]:
+                      - link [ref=e281] [cursor=pointer]:
+                        - /url: /teams/business/business-operations/
+                        - text: Business Operations
+                    - listitem [ref=e282]:
+                      - link [ref=e284] [cursor=pointer]:
+                        - /url: /teams/business/partnerships/
+                        - text: Partnerships
+                    - listitem [ref=e285]:
+                      - link [ref=e287] [cursor=pointer]:
+                        - /url: /teams/business/sales-and-marketing/
+                        - text: Sales and Marketing
+                - generic [ref=e289]:
+                  - heading [level=2] [ref=e290]:
+                    - generic [ref=e291]: Career Programs
+                  - list [ref=e292]:
+                    - listitem [ref=e293]:
+                      - link [ref=e295] [cursor=pointer]:
+                        - /url: /careerprograms/research/
+                        - text: Research
+                    - listitem [ref=e296]:
+                      - link [ref=e298] [cursor=pointer]:
+                        - /url: /careerprograms/accelerate-eng-talent/
+                        - text: Accelerate Eng Talent
+                    - listitem [ref=e299]:
+                      - link [ref=e301] [cursor=pointer]:
+                        - /url: /careerprograms/students/
+                        - text: Students and Grads
+                    - listitem [ref=e302]:
+                      - link [ref=e304] [cursor=pointer]:
+                        - /url: /rotational-programs/
+                        - text: Rotational Programs
+                - generic [ref=e306]:
+                  - heading [level=2] [ref=e307]:
+                    - generic [ref=e308]: Working at Meta
+                  - list [ref=e309]:
+                    - listitem [ref=e310]:
+                      - link [ref=e312] [cursor=pointer]:
+                        - /url: /accessibility-and-engagement/
+                        - text: Accessiblity and Engagement
+                    - listitem [ref=e313]:
+                      - link [ref=e315] [cursor=pointer]:
+                        - /url: /benefits/
+                        - text: Benefits
+                    - listitem [ref=e316]:
+                      - link [ref=e318] [cursor=pointer]:
+                        - /url: /culture/
+                        - text: Culture
+                    - listitem [ref=e319]:
+                      - link [ref=e321] [cursor=pointer]:
+                        - /url: /hiring-process/
+                        - text: Hiring Process
+              - generic [ref=e322]:
+                - generic [ref=e324]:
+                  - heading [level=2] [ref=e325]:
+                    - generic [ref=e326]: My account
+                  - list [ref=e327]:
+                    - listitem [ref=e328]:
+                      - link [ref=e330] [cursor=pointer]:
+                        - /url: /profile/info
+                        - text: Career profile
+                    - listitem [ref=e331]:
+                      - link [ref=e333] [cursor=pointer]:
+                        - /url: /profile/settings
+                        - text: Account settings
+                    - listitem [ref=e334]:
+                      - link [ref=e336] [cursor=pointer]:
+                        - /url: /profile/messages
+                        - text: Messages
+                - heading [level=2] [ref=e339]:
+                  - link [ref=e341] [cursor=pointer]:
+                    - /url: /blog/
+                    - text: Meta Careers Blog
+                - heading [level=2] [ref=e344]:
+                  - link [ref=e346] [cursor=pointer]:
+                    - /url: /podcasts/
+                    - text: Meta Tech Podcasts
+                - generic [ref=e348]:
+                  - heading [level=2] [ref=e349]:
+                    - generic [ref=e350]: About us
+                  - list [ref=e351]:
+                    - listitem [ref=e352]:
+                      - link [ref=e354] [cursor=pointer]:
+                        - /url: https://www.meta.com/about/company-info/
+                        - text: About Meta
+                    - listitem [ref=e355]:
+                      - link [ref=e357] [cursor=pointer]:
+                        - /url: https://www.meta.com/media-gallery/
+                        - text: Media gallery
+                    - listitem [ref=e358]:
+                      - link [ref=e360] [cursor=pointer]:
+                        - /url: https://www.meta.com/brand/resources/
+                        - text: Brand resources
+                    - listitem [ref=e361]:
+                      - link [ref=e363] [cursor=pointer]:
+                        - /url: https://investor.atmeta.com/home/default.aspx
+                        - text: For investors
+                    - listitem [ref=e364]:
+                      - link [ref=e366] [cursor=pointer]:
+                        - /url: https://us.meta.talentnet.community/
+                        - text: Looking for contractor roles?
+          - generic [ref=e368]:
+            - generic [ref=e371]:
+              - link [ref=e373] [cursor=pointer]:
+                - /url: https://transparency.meta.com/policies/community-standards
+                - text: Community Standards
+              - link [ref=e375] [cursor=pointer]:
+                - /url: /privacy/
+                - text: Data Policy
+              - link [ref=e377] [cursor=pointer]:
+                - /url: https://www.facebook.com/terms.php
+                - text: Terms
+              - link [ref=e379] [cursor=pointer]:
+                - /url: /policy/cookies/
+                - text: Cookie Policy
+            - generic [ref=e381]:
+              - text: Equal Employment Opportunity
+              - paragraph [ref=e382]:
+                - text: Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+                - link [ref=e383] [cursor=pointer]:
+                  - /url: /profile/footer_link/redirect/?page=equal_opportunity_policy
+                  - text: here
+                - text: .
+              - paragraph [ref=e384]:
+                - text: Meta is committed to providing reasonable support (called accommodations) in our recruiting processes for candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support. If you need assistance or an accommodation due to a disability, fill out the
+                - link [ref=e385] [cursor=pointer]:
+                  - /url: /accommodations_request/
+                  - text: Accommodations request form
+              - text: Notice regarding automated employment decision tools in New York City
+              - paragraph [ref=e386]:
+                - text: Learn more about this
+                - link [ref=e387] [cursor=pointer]:
+                  - /url: /nyc-disclosure-notice/
+                  - text: here
+                - text: .
+              - paragraph [ref=e388]: ©2026 Meta.
+            - generic [ref=e389]:
+              - text: If you have any trouble, you can report an issue
+              - button [ref=e391] [cursor=pointer]:
+                - generic [ref=e392]: Report a bug
