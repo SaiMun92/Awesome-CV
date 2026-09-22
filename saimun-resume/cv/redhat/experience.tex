@@ -11,19 +11,19 @@
 
 %---------------------------------------------------------
   \cventry
-    {Senior Software Engineer} % Job title
+    {Senior Software Engineer | Co-Product Owner} % Job title
     {SAP Asia} % Organization
     {Singapore} % Location
     {Dec 2020 - Present} % Date(s)
     {
       \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Co-architected SAP's Tabular AI platform --- a model-agnostic, highly scalable multi-tenant serving layer for the RPT-1 foundation model on Kubernetes (SAP AI Core), targeting 10+ enterprise tenants at 100K users each.}
-        \item {Owned the end-to-end serving architecture: API contracts, tenant isolation, model inference orchestration and model lifecycle management across the platform.}
+        \item {Architected and shipped SAP's Tabular AI platform end to end --- a model-agnostic, highly scalable multi-tenant serving layer for the RPT-1 foundation model on Kubernetes (SAP AI Core), targeting 10+ enterprise tenants at 100K users each.}
+        \item {Owned the full lifecycle of AI features --- API contracts, model selection and inference orchestration, tenant isolation --- and optimized the serving path to improve latency, throughput and cost under concurrent multi-tenant workloads.}
+        \item {Built explainability tooling that surfaces feature- and cohort-level explanation signals from recommendation models, supporting model-quality reviews and stakeholder trust in model outputs.}
+        \item {Designed a Postgres-native distributed-systems layer for the platform --- per-tenant sharding, Postgres advisory locks as a lightweight distributed-lock server, and a Postgres-backed state-machine orchestrator sequencing per-tenant training cycles --- as a deliberate alternative to standing up Redis, ZooKeeper or Airflow.}
+        \item {Established CI/CD (Jenkins) with unit, integration and e2e coverage across the recommendation and inference pipelines to catch degradations before customer impact.}
         \item {Implemented enterprise security --- encryption at rest and in transit, and tenant data isolation --- for employee data on SAP SuccessFactors.}
-        \item {Optimized the model inference serving path to improve latency and throughput under concurrent multi-tenant workloads.}
-        \item {Translated product and stakeholder requirements into technical specifications and architecture decisions, and coordinated delivery across a 15-person cross-functional engineering team.}
-        \item {Led delivery of Personalized Recommendations, a recommender engine that generated 8B+ recommendations in 2025 for enterprise customers, and architected People Like Me, a service that aggregates customer data into training data for Personalized Recommendations and exposes its own REST API for consuming recommendations.}
-        \item {Established CI/CD (Jenkins) with unit, integration and e2e test coverage and instrumented the platform with Dynatrace APM and Kibana (correlation-ID tracing), reducing mean-time-to-resolution for production incidents.}
+        \item {Served as technical lead for Personalized Recommendations, a recommender engine generating 8B+ recommendations in 2025, and architected People Like Me, a service that aggregates customer data into training data for Personalized Recommendations and exposes its own API for consuming recommendations; set engineering best practices and mentored engineers through code review and pair programming.}
       \end{cvitems}
     }
 

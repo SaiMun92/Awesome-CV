@@ -1,0 +1,59 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% Variant: Senior AI/ML Engineer
+% Target: Red Hat --- APAC AI COE, Singapore
+%
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{awesome-cv}
+
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Red Hat-red accent
+\colorlet{awesome}{awesome-red}
+
+\setbool{acvSectionColorHighlight}{true}
+
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%-------------------------------------------------------------------------------
+\name{Sai Mun}{Lee}
+\position{Senior AI/ML Engineer}
+
+\mobile{(+65) 9336 4288}
+\email{saimun92@icloud.com}
+\homepage{saimunlee.com}
+\linkedin{lee-sai-mun-8a12726}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+\makecvheader
+
+\makecvfooter
+  {\today}
+  {Sai Mun Lee~~~·~~~Resume}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%-------------------------------------------------------------------------------
+\input{cv/redhat/summary.tex}
+\input{cv/redhat/skills.tex}
+\input{cv/redhat/experience.tex}
+\input{cv/shared/projects.tex}
+\input{cv/shared/certificates.tex}
+\input{cv/shared/education.tex}
+
+
+%-------------------------------------------------------------------------------
+\end{document}

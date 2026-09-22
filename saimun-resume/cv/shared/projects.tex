@@ -1,0 +1,27 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Projects}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {CertCoach --- RAG Certification-Study Assistant} % Job title
+    {Personal Project} % Organization
+    {} % Location
+    {Aug 2026} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Designed a hybrid-retrieval RAG pipeline --- dense vector search (pgvector) fused with Postgres full-text (sparse) search via Reciprocal Rank Fusion, plus chunk-neighbor context expansion.}
+        \item {Built an evaluation harness combining deterministic IR metrics (recall@k, hit@k, MRR@k, NDCG@k) with cross-family LLM-as-judge scoring, run as a structured A/B sweep across retrieval and prompting configurations.}
+        \item {Used the eval harness to catch a reranker that regressed accuracy (0.761 to 0.664) while adding roughly 200x latency, and cut it from the pipeline --- a data-driven call over an assumed best practice.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+\end{cventries}

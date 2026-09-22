@@ -1,0 +1,60 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% Variant: Senior Software Engineer (AI/ML)
+% Target: EPAM --- Banking GenAI, Singapore
+%
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{awesome-cv}
+
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% EPAM-darknight accent
+\colorlet{awesome}{awesome-darknight}
+
+\setbool{acvSectionColorHighlight}{true}
+
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%-------------------------------------------------------------------------------
+\name{Sai Mun}{Lee}
+\position{Senior Software Engineer (AI/ML)}
+
+\mobile{(+65) 9336 4288}
+\email{saimun92@icloud.com}
+\homepage{saimunlee.com}
+\linkedin{lee-sai-mun-8a12726}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+\makecvheader
+
+\makecvfooter
+  {\today}
+  {Sai Mun Lee~~~·~~~Resume}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%-------------------------------------------------------------------------------
+\input{cv/epam/summary.tex}
+\input{cv/epam/skills.tex}
+\input{cv/epam/experience.tex}
+\newpage
+\input{cv/shared/projects.tex}
+\input{cv/shared/certificates.tex}
+\input{cv/shared/education.tex}
+
+
+%-------------------------------------------------------------------------------
+\end{document}
